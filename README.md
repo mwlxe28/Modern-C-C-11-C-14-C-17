@@ -7,6 +7,5 @@ https://github.com/changkun/modern-cpp-tutorial
 《C++11_14高级编程 Boost程序库探秘, 3rd》
 
 《Effective
-Modern C++》ISBN: 978-1-491-90399-5
-
+Modern C++》42 Specific Ways to Improve Your Use of C++11
 
