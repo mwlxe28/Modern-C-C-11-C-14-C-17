@@ -1,8 +1,6 @@
 
 # 学习C++11
 
-==
-
 参考书籍及主要的网络资料
 
 <https://github.com/changkun/modern-cpp-tutorial>
